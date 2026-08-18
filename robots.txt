@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-b5eqrr.antam89.site/sitemap.xml
